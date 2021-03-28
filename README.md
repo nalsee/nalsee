@@ -1,7 +1,8 @@
 ### 반가워요 👋
 <p><img alt="GitHub followers" src="https://img.shields.io/github/followers/peuridev?style=social"></p>
 안녕하세요! 1년차 프론트앤드 개발자입니다 :)
-### 주 언어 : HTML/CSS/JS
+
+#### 주 언어 : HTML/CSS/JS
 
 ### 하고 있는 일들
 - 스튜디오 데브냥
