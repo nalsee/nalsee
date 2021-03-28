@@ -17,6 +17,7 @@
   - 관리자 및 개발자
 
 ### SKILLSTACKES
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peuridev&show_icons=true&locale=en&layout=compact" alt="peuridev" /></p><br /> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peuridev&show_icons=true&locale=en&layout=compact" alt="peuridev" /></p>
+
 ### 작업/외주 문의
 메일 : gka6884@naver.com
