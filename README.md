@@ -1,7 +1,7 @@
 ## 반가워요 👋
 안녕하세요! 1년차 프론트앤드 개발자입니다 :)
 
-주 언어 : HTML/CSS/JS
+주 언어 : HTML/CSS/JS/PHP
 
 ### 하고 있는 일들
 - 스튜디오 데브냥 - 프론트앤드 개발자
@@ -13,6 +13,7 @@
 
 ### SKILLSTACKES
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peuridev&show_icons=true&locale=en&layout=compact" alt="peuridev" /></p>
+PHP 코드는 보안상 문제때문에 깃허브에 업로드하지 않습니다.
 
 ### 작업/외주 문의
 메일 : gka6884@naver.com
