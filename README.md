@@ -7,7 +7,7 @@
 - 주 언어 : HTML/CSS/JS/PHP
 
 ### SKILLSTACKES
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peuridev&show_icons=true&locale=en&layout=compact" alt="oopseong" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oopseong&show_icons=true&locale=en&layout=compact" alt="oopseong" /></p>
 PHP 코드는 보안상 문제로 깃허브에 업로드하지 않습니다.
 
 그래도 가끔식 PHP 오픈소스로 찾아뵙겠습니다 :)
