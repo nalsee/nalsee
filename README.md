@@ -5,7 +5,7 @@
 - 주 언어 : HTML/CSS/JS/PHP
 
 ## SKILLSTACKES
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oopseong&show_icons=true&locale=en&layout=compact" alt="oopseong" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oopseong&show_icons=true&locale=en&layout=compact" alt="oneoclock18" /></p>
 
 ## 서비스
 ### 제작한 서비스
