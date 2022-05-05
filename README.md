@@ -1,4 +1,4 @@
-## Hello Would! 👋
+## Hello World! 👋
 <img src="https://i.ibb.co/BZH0qpb/logo-gra-bg.png" alt="logo-gra-bg" border="0" width="130px">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seongpark&show_icons=true&locale=en&layout=compact" alt="oneoclock18" /></p>
 
