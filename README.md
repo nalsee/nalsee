@@ -13,7 +13,7 @@ PHP는 비록 한물 간 언어라는 평을 듣지만 아직도 많이 쓰이�
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/Apache-A81C7D?style=flat-square&logo=Apache&logoColor=white" /> <img src="https://img.shields.io/badge/MAMP-02749C?style=flat-square&logo=MAMP&logoColor=white" /> 
 
 ## SNS
-<a href="https://www.instagram.com/seongpark2" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://hibie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://hibielog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href="https://www.instagram.com/seongpark2" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://hibie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://oopseong.notion.site/OOPSEONG-64f5deef6ebc4720a922f57cf8821278" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 ## 경력
 ### 🎓 학력
